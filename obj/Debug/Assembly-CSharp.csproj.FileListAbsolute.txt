@@ -1,0 +1,2 @@
+C:\Users\Asia\OneDrive\Create a Code\ANA Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Asia\OneDrive\Create a Code\ANA Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
